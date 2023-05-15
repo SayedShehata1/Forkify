@@ -14,10 +14,6 @@
   },
   "author": "Sayed Shehata Sayed",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ahmedalam98/Forkify/issues"
-  },
-  "homepage": "https://github.com/ahmedalam98/Forkify#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",

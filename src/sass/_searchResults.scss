@@ -35,8 +35,16 @@
   padding: 0 3.5rem;
   margin-top: 4rem;
 
-  .twitter-link:link,
-  .twitter-link:visited {
+  .git-link:link,
+  .git-link:visited {
     color: $color-grey-dark-2;
+    transition: all 0.2s;
+
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .git-link:hover,
+  .git-link:active {
+    opacity: 0.8;
   }
 }
