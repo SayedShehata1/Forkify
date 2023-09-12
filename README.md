@@ -55,7 +55,7 @@
 
 ## About The Project
 
-![Forkify preview](./src/img/preview.PNG)
+![Forkify preview](./src/img/preview.png)
 
 Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuapp.com/v2) to allow users to search, view, modify, bookmark and add recipes.
 
